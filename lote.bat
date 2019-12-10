@@ -44,3 +44,7 @@ python santamaria/simples_08.py "kokito" 60
 python santamaria/simples_09.py "Magrith" 19
 python santamaria/simples_09.py "Estrella" 20
 python santamaria/simples_09.py "Ariany" 17
+
+
+python santamaria/simples_10.py  "Isa" "Azul"
+python santamaria/simples_10.py  "Tedi" "Rojo"
