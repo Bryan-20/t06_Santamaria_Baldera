@@ -1,5 +1,5 @@
-# Programa 01
-# Escriba un programa que pregunte al usuario su compra y muestre si es mayor o menor a 100.
+# Programa 03
+# Escriba un programa que pregunte al cliente su compra y muestre si es mayor o menor a 1000.
 import os
 # declaracion de variables
 cliente,mayor_O_menor,compra="","",0

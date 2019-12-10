@@ -1,3 +1,4 @@
+# Programa 02
 # Escriba un programa donde el peaton vea el semaforo de color verde, pueda cruzar la calle
 # y si esta rojo le permita esperar
 
