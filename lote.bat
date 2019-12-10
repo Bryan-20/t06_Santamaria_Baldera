@@ -67,3 +67,22 @@ python baldera/dobles_04.py "Emilio" 160
 python baldera/dobles_05.py "Lauria" 100
 python baldera/dobles_05.py "Sofia" 70
 python baldera/dobles_05.py "Jacinta" 40
+
+
+python baldera/dobles_06.py "Tatiana" 12
+python baldera/dobles_06.py "Alci" 12
+python baldera/dobles_06.py "Cindy" 9
+
+
+python santamaria/simples_07.py  "Buzo Samsung" "Azul"
+python santamaria/simples_07.py  "Buzo Iphone" "Rojo"
+
+
+python baldera/dobles_08.py  "Gregorio" 75
+python baldera/dobles_08.py  "Estefany" 74
+python baldera/dobles_08.py  "Sheyla" 60
+
+
+python baldera/dobles_09.py "Sasha" 19
+python baldera/dobles_09.py  "Andres" 20
+python baldera/dobles_09.py  "Manuela" 17

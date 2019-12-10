@@ -11,7 +11,7 @@ puntaje=float(os.sys.argv[2])
 
 # PROCESSINGc
 #Si el nro mostrado es < 70
-# mostrar "Alcanso bacante!"
+# mostrar "Ingreso a la UNPRG!"
 #Si el nro mostrado es > 70
 # mostrar "NO ingreso!"
 
