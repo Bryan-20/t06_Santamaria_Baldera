@@ -86,3 +86,7 @@ python baldera/dobles_08.py  "Sheyla" 60
 python baldera/dobles_09.py "Sasha" 19
 python baldera/dobles_09.py  "Andres" 20
 python baldera/dobles_09.py  "Manuela" 17
+
+
+python santamaria/simples_10.py  "Pierina" "Azul"
+python santamaria/simples_10.py  "Hugo" "Rojo"
