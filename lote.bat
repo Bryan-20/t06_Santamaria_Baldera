@@ -17,11 +17,6 @@ python santamaria/simples_04.py "Tito" 170
 python santamaria/simples_04.py "Pablo" 160
 
 
-python santamaria/simples_04.py 10+15+20
-python santamaria/simples_04.py 20+30+40
-python santamaria/simples_04.py 40+20+30
-
-
 python santamaria/simples_05.py "Santamaria" 100
 python santamaria/simples_05.py "Rivadeneira" 70
 python santamaria/simples_05.py "Panchito" 40
@@ -62,3 +57,13 @@ python baldera/dobles_02.py  "Marco" "Rojo"
 python baldera/dobles_03.py "Mauricio" 950
 python baldera/dobles_03.py "Anabel" 900
 python baldera/dobles_03.py "Jory" 1500
+
+
+python baldera/dobles_04.py "frank" 147
+python baldera/dobles_04.py "Guillermo" 170
+python baldera/dobles_04.py "Emilio" 160
+
+
+python baldera/dobles_05.py "Lauria" 100
+python baldera/dobles_05.py "Sofia" 70
+python baldera/dobles_05.py "Jacinta" 40

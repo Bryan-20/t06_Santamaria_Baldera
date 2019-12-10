@@ -21,5 +21,3 @@ if (alt_en_cm <  150):
 else:
     print(nombre,"Persona Alta!")
 #fin_if
-
-
