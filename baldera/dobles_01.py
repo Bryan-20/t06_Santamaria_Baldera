@@ -1,3 +1,4 @@
+
 # Programa 01
 # Escriba un programa que pregunte al usuario su edad y muestre si es mayor o menor de edad.
 
@@ -19,5 +20,3 @@ else:
     print(usuario,"Eres menor de edad!")
 
 #fin_if
-
-

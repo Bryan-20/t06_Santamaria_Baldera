@@ -1,6 +1,6 @@
 python santamaria/simples_01.py "Juan" 19
 python santamaria/simples_01.py "Ana" 20
-python santamaria/simples_01.py "Carlos" 17
+python santamaria/simples_01.py "Carlos" 22
 
 
 python santamaria/simples_02.py  "Pedro" "Verde"
@@ -48,3 +48,17 @@ python santamaria/simples_09.py "Ariany" 17
 
 python santamaria/simples_10.py  "Isa" "Azul"
 python santamaria/simples_10.py  "Tedi" "Rojo"
+
+# condiconales dobles
+
+python baldera/dobles_01.py "paco" 20
+python baldera/dobles_01.py "celeste" 30
+python baldera/dobles_01.py "katerine" 15
+
+python baldera/dobles_02.py  "Lucho" "Verde"
+python baldera/dobles_02.py  "Marco" "Rojo"
+
+
+python baldera/dobles_03.py "Mauricio" 950
+python baldera/dobles_03.py "Anabel" 900
+python baldera/dobles_03.py "Jory" 1500
