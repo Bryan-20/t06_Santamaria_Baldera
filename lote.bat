@@ -7,9 +7,9 @@ python santamaria/simples_02.py  "Pedro" "Rojo"
 python santamaria/simples_02.py  "Jose" "Rojo"
 
 
-python santamaria/simples_03.py "Mili" 950
-python santamaria/simples_03.py "Bryan" 900
-python santamaria/simples_03.py "Andrea" 1500
+python santamaria/simples_03.py "Mili" 1800
+python santamaria/simples_03.py "Bryan" 2100
+python santamaria/simples_03.py "Andrea" 3500
 
 
 python santamaria/simples_04.py "Josefa" 147

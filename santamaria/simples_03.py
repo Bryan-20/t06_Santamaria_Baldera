@@ -11,12 +11,9 @@ compra=float(os.sys.argv[2])
 # PROCESSINGc
 #Si el nro mostrado es < 1000
 # mostrar "Pago con tarjeta debito!"
-#Si el nro mostrado es > 1000
-# mostrar "Pago en efectivo!"
+
 
 if (compra > 1000):
     print (cliente,"Pago con tarjeta debito!")
-else:
-    print(cliente,"Pago en efectivo!")
 
 #Fin_if
