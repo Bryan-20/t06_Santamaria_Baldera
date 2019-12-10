@@ -12,36 +12,36 @@ python santamaria/simples_03.py "Bryan" 2100
 python santamaria/simples_03.py "Andrea" 3500
 
 
-python santamaria/simples_04.py "Josefa" 147
+python santamaria/simples_04.py "Josefa" 165
 python santamaria/simples_04.py "Tito" 170
-python santamaria/simples_04.py "Pablo" 160
+python santamaria/simples_04.py "Pablo" 163
 
 
 python santamaria/simples_05.py "Santamaria" 100
 python santamaria/simples_05.py "Rivadeneira" 70
-python santamaria/simples_05.py "Panchito" 40
+python santamaria/simples_05.py "Panchito" 80
 
 
-python santamaria/simples_06.py "Julia" 12
-python santamaria/simples_06.py "Claudia" 12
-python santamaria/simples_06.py "Jorbi" 9
+python santamaria/simples_06.py "Julia" 14
+python santamaria/simples_06.py "Claudia" 15
+python santamaria/simples_06.py "Jorbi" 12
 
 
 python santamaria/simples_07.py  "Buque santa rosa" "Azul"
-python santamaria/simples_07.py  "Buque pimentel" "Rojo"
+python santamaria/simples_07.py  "Buque pimentel" "Azul"
 
 
 python santamaria/simples_08.py "Alexis" 75
 python santamaria/simples_08.py "Liset" 74
-python santamaria/simples_08.py "kokito" 60
+python santamaria/simples_08.py "kokito" 80
 
 
-python santamaria/simples_09.py "Magrith" 19
-python santamaria/simples_09.py "Estrella" 20
-python santamaria/simples_09.py "Ariany" 17
+python santamaria/simples_09.py "Magrith" 23
+python santamaria/simples_09.py "Estrella" 21
+python santamaria/simples_09.py "Ariany" 22
 
 
-python santamaria/simples_10.py  "Isa" "Azul"
+python santamaria/simples_10.py  "Isa" "Rojo"
 python santamaria/simples_10.py  "Tedi" "Rojo"
 
 # condiconales dobles

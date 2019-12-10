@@ -17,6 +17,5 @@ nta_aprobatoria=int(os.sys.argv[2])
 #mostrar Aprobo el examen!
 if (nta_aprobatoria>11):
     print(nombre,"Aprobo el examen! ")
-else:
-    print(nombre,",Desaprobo el examen!")
+
 #finif

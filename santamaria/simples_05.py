@@ -17,6 +17,5 @@ nro_ticks=int(os.sys.argv[2])
 #mostrar ganaste un Iphone7s!
 if (nro_ticks>50):
     print(nombre,"ganaste un Iphone7s! ")
-else:
-    print(nombre,",ganaste un premio sopresa!")
+
 #finif

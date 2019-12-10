@@ -1,6 +1,6 @@
-# Programa 01
+# Programa 09
 # Escriba un programa que X banco pregunte al cliente su edad y muestre si es mayor o menor de edad
-# si es mayor prestamo aprobado, si es menor no accede al prestamo
+# si es mayor prestamo aprobado
 
 import os
 
@@ -18,6 +18,5 @@ edad=int(os.sys.argv[2])
 
 if (edad > 18):
     print (cliente,"Prestamo aprobado!")
-else:
-    print(cliente,"No accede al prestamo !")
+
 #fin_if

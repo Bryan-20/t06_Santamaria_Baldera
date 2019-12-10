@@ -12,12 +12,9 @@ puntaje=float(os.sys.argv[2])
 # PROCESSINGc
 #Si el nro mostrado es < 70
 # mostrar "Alcanso bacante!"
-#Si el nro mostrado es > 70
-# mostrar "NO ingreso!"
 
 if (puntaje > 70):
     print (postulante,"Alcanso bacante!")
-else:
-    print(postulante,"No ingreso!")
+
 
 #Fin_if
