@@ -15,8 +15,6 @@ edad=int(os.sys.argv[2])
 # mostrar "Eres mayor de edad!"
 if (edad > 18):
     print (usuario,"Eres mayor de edad!")
-else:
-    print(usuario,"Eres menor de edad!")
 
 #fin_if
 
